@@ -21,16 +21,16 @@
 
 ### The first AioGram based modified groupmanagement bot fully optimized for heroku deploys
 ### https://daisyproject.studio
-## Avaiilable on Telegram as [@Roronoa Zoro](https://t.me/BotZoroXbot)
+## Avaiilable on Telegram as [@ZoroXbot](https://t.me/BotZoroXbot)
 
 # 🏃‍♂️ Easy Deploy 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamDaisyX/DaisyX-v2.0.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Razer-Cynosa/ZoroX.git)
 
 [Generate String Session](https://replit.com/@SpEcHiDe/GenerateStringSession)  << Select telethon
 
 # ❤️ Support
-<a href="https://t.me/aesthetiboyy2"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/RoronoaZoro_Xbot"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/RoronoasZoro_Xbot"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/UserbotCorei9"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 # 😍 Credits
 
@@ -64,7 +64,7 @@ This repo was just revamped to suit an Anime-centric & comedy loving community. 
 
 All other credits mentioned on top of scripts
 
-Anything missing kindly let us know at [Daisy Support](https://t.me/DaisySupport_Official) or simply submit a pull request on the readme.
+Anything missing kindly let us know at [Zoro Support](https://t.me/UserbotCorei9) or simply submit a pull request on the readme.
 
 # ZoroX the telegram Bot Project
 ZoroX (Base AioGram)
