@@ -1,14 +1,14 @@
 {
-  "name": "DaisyX",
+  "name": "ZoroX",
   "description": "?",
   "keywords": [
     "telegram",
     "Daisy",
     "plugin",
-    "telegram-DaisyX",
+    "telegram-ZoroX",
     "fuck-TG"
   ],
-  "repository": "https://github.com/TeamDaisyX/Daisy-x",
+  "repository": "https://github.com/Razer-Cynosa/ZoroX",
   "website": "daisyproject.studio",
   "success_url": "t.me/DaisyXUpdates",
   "buildpacks": [
@@ -43,7 +43,7 @@
     },
     "MONGO_DB": {
       "description": "Don't change.",
-      "value": "DaisyX",
+      "value": "ZoroX",
       "required": false
     },
     "HEROKU_APP_NAME": {
@@ -58,7 +58,7 @@
     },
     "UPSTREAM_REPO_URL": {
       "description": "Only for fork users else don't change",
-      "value": "https://github.com/TeamDaisyX/DaisyX-v2.0",
+      "value": "https://github.com/Razer-Cynosa/ZoroX",
       "required": false  
     },
     "API_PORT": {
